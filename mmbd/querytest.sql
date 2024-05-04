@@ -1,0 +1,1 @@
+SELECT * from ciudades WHERE nombre LIKE 'ma%'
